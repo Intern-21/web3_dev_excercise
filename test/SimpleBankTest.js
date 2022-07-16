@@ -9,7 +9,7 @@
  * @format
  */
 
-// const { catchRevert } = require('./exceptionsHelpers.js');
+const { catchRevert } = require('./exceptionsHelpers.js');
 const SimpleBank = artifacts.require('./SimpleBank.sol');
 
 contract('SimpleBank', function (accounts) {
