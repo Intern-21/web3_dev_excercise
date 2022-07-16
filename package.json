@@ -1,0 +1,11 @@
+{
+  "name": "simple-bank",
+  "version": "1.0.0",
+  "description": "A simple bank exercise for Web3 dev learning program 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chukky_",
+  "license": "ISC"
+}
